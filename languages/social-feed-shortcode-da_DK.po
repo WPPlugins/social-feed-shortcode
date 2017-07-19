@@ -1,0 +1,23 @@
+msgid "Feed"
+msgstr "Foder"
+
+msgid "Feeds You want to create"
+msgstr "Feeds Du ønsker at oprette"
+
+msgid "Save"
+msgstr "Spare"
+
+msgid "Number of Feeds to fetch"
+msgstr "Antal Feeds at hente"
+
+msgid "Shortcode"
+msgstr "Lær"
+
+msgid "Save All"
+msgstr "Gem alle"
+
+msgid "Feed file not found"
+msgstr "Feed -fil ikke fundet"
+
+msgid "This can be caused if the Feed is not generated / Parent Directory is not writable."
+msgstr "Dette kan skyldes, at foderet ikke er genereret / Parent Directory er ikke skrivbar ."

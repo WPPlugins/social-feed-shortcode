@@ -1,0 +1,9 @@
+/* message */
+.msg_success{
+	width:97%;
+	background-color:#fff;
+	border:1px solid #2E763F;
+	color:#2E763F;
+	padding:5px;
+	margin:5px 0 4px;
+}

@@ -1,0 +1,70 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Social Feed Shortcode"
+msgstr ""
+
+#. Short description.
+msgid "Display social feeds in your site in a different way. This version supports display feeds from facebook. Check out the screenshots."
+msgstr ""
+
+#. Screenshot description.
+msgid "settings page"
+msgstr ""
+
+#. Screenshot description.
+msgid "Facebook Feeds display."
+msgstr ""
+
+#. Found in description list item.
+msgid "Easy setup. Enter your Facebook ID and put the shortcode in your page."
+msgstr ""
+
+#. Found in description list item.
+msgid "No need to create Facebook APP/ API to fetch the feeds. Just put the facebook ID and the feeds will be fetched. "
+msgstr ""
+
+#. Found in description list item.
+msgid "Create multiple number of feeds for your site."
+msgstr ""
+
+#. Found in description list item.
+msgid "Feeds are automatically updated daily. "
+msgstr ""
+
+#. Found in description list item.
+msgid "Feeds are temporarily stored in upload directory of WordPress, so the feeds are displayed faster."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Post your plugin related queries at <a href=\"http://www.aviplugins.com/support.php\">http://www.aviplugins.com/support.php</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload <code>social-feed-shortcode.zip</code> to the <code>/wp-content/plugins/</code> directory."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to <code>Settings-&gt; Social Feed</code>, and enter Facebook ID. It's really easy."
+msgstr ""
+
+#. Found in installation list item.
+msgid "You will get the shortcode. Enter that shortcode in your page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "this is the first release."
+msgstr ""
+
+#. Found in faq header.
+msgid "For any kind of queries"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Please email me demoforafo@gmail.com. Contact me at http://www.aviplugins.com/support.php"
+msgstr ""
